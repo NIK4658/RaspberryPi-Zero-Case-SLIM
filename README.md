@@ -1,16 +1,18 @@
-# **PROJECT TITLE** 🚧 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) ![StatusBadge](https://badgen.net/badge/Status/In%20Progress/orange) ![StatusBadge](https://badgen.net/badge/Status/Not%20Completed/red) 
+# **RASPBERRY PI ZERO W CASE** 🧰 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
-Tags: (https://shields.io/)
+**Tags:**
 
+![Topic](https://img.shields.io/badge/Topic-Raspberry%20Pi%20Zero-red?style=for-the-badge)
 
+![Topic](https://img.shields.io/badge/Tools-3D%20Printer-blueviolet?style=for-the-badge)
+
+![Topic](https://img.shields.io/badge/3D%20Models-Avaiable%20for%20Free-informational?style=for-the-badge)
 
 ---
 
 ## **PROJECT DESCRIPTION:**
 
 [Text Description]
-
-Year / quarter / month / period (Optional)
 
 <p class="Project Presentation Image" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
@@ -24,19 +26,15 @@ Year / quarter / month / period (Optional)
 
 ## **Ratings**
 
-**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
+**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
-
-## **REPORT** (?)
-
-Check the report in the repository if avaiable.
+**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
 ---
 
@@ -51,30 +49,22 @@ Check the report in the repository if avaiable.
 (Do you want to have it printed? Click Here.)
 
 
-## **Wiring diagram** (if necessary)
-
-<p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
-</p>
+## **COMPONENTS**
 
 **Hardware components:**
-- 1 x Arduino
-- 5 x 220Ohm Resistor 
-- ecc
+- 1 x Raspberry Pi Zero W / Raspberry Pi Zero 2 W
+- 2 x Mechanical Key Switches *(Optional)*
+- 1 x 3D Printed case
 
 **Necessary tools:**
-- Soldering Iron
 - 3D Printer 
-- ecc
 
 ### **How to assemble it**
 
-1. Phase 1
-2. Phase 2
-3. Phase 3
-4. Phase 4
-5. Phase 5
-6. ecc
+1. Insert the *Raspberry Pi Zero W / Raspberry Pi Zero 2 W* in the case.
+2. Insert the *two Mechanical Key Switches* into the slots on the housing cover *(Optional step)*
+3. Wire the *two Mechanical Key Switches* to the **pins** of the *Raspberry*. *(Optional step)*
+4. Close the 3D printed case.
 
 ---
 
