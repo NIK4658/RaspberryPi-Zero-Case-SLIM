@@ -19,7 +19,7 @@ This container has been modeled and developed with the aim of generating a case 
 The two pieces **fit together perfectly** and *no glue or special treatment* is needed to join the two 3D printed pieces.
 
 <p class="Project Presentation Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/RenderMain.png" width="1000">
 </p>
 
 ### **Features**
@@ -42,12 +42,22 @@ The two pieces **fit together perfectly** and *no glue or special treatment* is 
 
 ---
 
-## **3D MODELS IMAGES** (if necessary)
+## **3D MODELS IMAGES**
 
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/3D%20Models/CaseAndCover.png" width="1000">
 </p>
 
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/3D%20Models/Case.png" width="400">
+  <img align="center" src="./src/images/3D%20Models/Cover.png" width="400">
+</p>
+
+---
+
+### **3D MODEL FILES:**
+
+**All** 3D models files are **available for free** and *can be found in the repository.*
 
 ## **COMPONENTS**
 
@@ -70,14 +80,16 @@ The two pieces **fit together perfectly** and *no glue or special treatment* is 
 
 ## **GALLERY:**
 
-### **RENDER**
+### **RENDERS**
 
-<p class="Single Image Render?" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="Render1" align="center">
+  <img align="center" src="./src/images/Renders/RenderMain.png" width="1000">
 </p>
 
-## **IRL (Project Completed)**
-
-<p class="Multiple IRL Images?" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="Render2" align="center">
+  <img align="center" src="./src/images/Renders/RenderSide.png" width="1000">
 </p>
+
+
+[//]: # (## **IRL Project Completed**)
+
