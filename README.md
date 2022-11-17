@@ -12,7 +12,7 @@
 
 ## **PROJECT DESCRIPTION:**
 
-Very **minimal and good looking** case with two holes for **two low profile mechanical switches**.
+Very **minimal and good looking** Raspberry Pi Zero W case with two holes for **two low profile mechanical switches**.
 
 This container has been modeled and developed with the aim of generating a case that is **as minimal and comfortable as possible.**
 
