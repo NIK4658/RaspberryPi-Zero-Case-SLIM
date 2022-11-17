@@ -1,4 +1,4 @@
-# **RASPBERRY PI ZERO W CASE** 🧰 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
+# **RASPBERRY PI ZERO W CASE (SLIM VERSION)** 🧰 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
 **Tags:**
 
@@ -12,16 +12,20 @@
 
 ## **PROJECT DESCRIPTION:**
 
-[Text Description]
+Very **minimal and good looking** case with two holes for **two low profile mechanical switches**.
+
+This container has been modeled and developed with the aim of generating a case that is **as minimal and comfortable as possible.**
+
+The two pieces **fit together perfectly** and *no glue or special treatment* is needed to join the two 3D printed pieces.
 
 <p class="Project Presentation Image" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
 ### **Features**
-- 
-- 
-- 
+- Possibility of inserting **two switches** on the cover of the case and assigning **each of them a command or a program hosted directly on the raspberry**.
+- Case developed in *two different parts*, **without** the need for *any type of glue or treatment*. 
+- *Precise hole* for inserting the **power cord**.
 
 
 ## **Ratings**
@@ -44,16 +48,12 @@
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
-(One or two images that contains multiple view of one or many 3D models)
-
-(Do you want to have it printed? Click Here.)
-
 
 ## **COMPONENTS**
 
 **Hardware components:**
 - 1 x Raspberry Pi Zero W / Raspberry Pi Zero 2 W
-- 2 x Mechanical Key Switches *(Optional)*
+- 2 x Low profile Mechanical Key Switches *(Optional)*
 - 1 x 3D Printed case
 
 **Necessary tools:**
